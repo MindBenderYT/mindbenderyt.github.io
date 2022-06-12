@@ -1,5 +1,16 @@
 <html>
 	<head>
+		<style>
+			@font-face {
+			    font-family: myFirstFont;
+			    src: url(font.ttf);
+			}
+
+			html {
+			    font-family: myFirstFont;
+			    color: darkgreen;
+			}
+		</style>
 	</head>
 	<body>
 		<nav>
