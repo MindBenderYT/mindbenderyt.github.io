@@ -7,7 +7,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, Jake!</h1>
-				<p>Hello! I'm Jake. I'm best known as Kazuto from <em>bunk.town</em> <a href="/about.html">Read more about my projects...</a></p>
+				<p>Hello! I'm Jake. I'm best known as Kazuto from <em>bunk.town</em> <a href="/about.html">Read more about me...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 	</body>
